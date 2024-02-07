@@ -1,26 +1,31 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
 title = "Robert Mathew"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "&copy; 2024"
 
-#[params]
-#  dateFormat = "2 January 2006"
+[params]
+  dateFormat = "2 January 2006"
 
-  # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  mainSections = ["samples"]
+  description = "Personal site of Robert Mathew"
 
 [params.author]
-  # name = "Robert Mathew"
-  # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
-  # links = [
+  name = "Robert Mathew"
+  image = "img/author.jpg"
+  headline = "I'm only human"
+  bio = "A little bit about you"
+  links = [
   #   { email = "mailto:hello@your_domain.com" },
-  #   { link = "https://link-to-some-website.com/" },
-  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+     { link = "https://link-to-some-website.com/" },
+     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
   #   { codepen = "https://codepen.io/username" },
   #   { dev = "https://dev.to/username" },
-  #   { discord = "https://discord.gg/invitecode" },
+     { discord = "https://discord.gg/invitecode" },
   #   { dribbble = "https://dribbble.com/username" },
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
@@ -56,4 +61,4 @@ title = "Robert Mathew"
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+   ]
